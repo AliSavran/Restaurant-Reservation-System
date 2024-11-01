@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1717006012 source:c:\users\ali19\desktop\yemek-rezervasyon-sistemi\main.cpp
+	<iostream>
+	<cstring>
+
